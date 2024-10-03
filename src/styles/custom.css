@@ -1,0 +1,6 @@
+/* Add any custom styles here */
+.bg-hero {
+  background-image: url("/api/placeholder/1920/1080");
+  background-size: cover;
+  background-position: center;
+}
