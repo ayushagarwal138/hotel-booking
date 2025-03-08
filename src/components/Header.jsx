@@ -10,7 +10,7 @@ export default function Header({ onExploreRooms, onAboutClick, onBlogClick, onFa
           <svg className="w-8 h-8 text-white mr-2" viewBox="0 0 24 24" fill="currentColor">
             <path d="M19 8h-1V6a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1v2H5a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-9a2 2 0 0 0-2-2zm-8 0h2V6h2v2h2V6h2v2h1v2H6V8h1V6h2v2z"/>
           </svg>
-          <span className="text-xl font-bold text-white">Resmat</span>
+          <span className="text-xl font-bold text-white">Relax</span>
         </div>
         <nav>
           <ul className="flex space-x-6">

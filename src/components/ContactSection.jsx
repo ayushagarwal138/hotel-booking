@@ -31,7 +31,7 @@ export default function ContactSection() {
               </div>
               <div className="flex items-center">
                 <Mail className="w-6 h-6 text-blue-500 mr-2" />
-                <span>info@resmathotel.com</span>
+                <span>info@ayushhotel.com</span>
               </div>
             </div>
           </div>

@@ -18,7 +18,7 @@ export default function AboutSection() {
             </div>
           </div>
           <div>
-            <h2 className="text-3xl font-bold mb-6">About Resmat</h2>
+            <h2 className="text-3xl font-bold mb-6">About Relax hotel</h2>
             <p className="text-gray-600 mb-6">
               Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin sodales ultrices nulla blandit volutpat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin sodales ultrices nulla blandit volutpat.
             </p>
