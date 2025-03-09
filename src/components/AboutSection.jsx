@@ -8,8 +8,8 @@ export default function AboutSection() {
       <div className="max-w-4xl mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="relative">
-            <img src="src/assets/Images/image1.jpg" alt="Hotel Pool" className="rounded-lg shadow-md w-48 object-cover h-80" />
-            <img src="src/assets/Images/image2.jpg" alt="Hotel Room" className="rounded-lg shadow-md absolute right-0 bottom-10 transform translate-x-1/8 w-2/3 h-60 object-cover" />
+            <img src="./public/image1.jpg" alt="Hotel Pool" className="rounded-lg shadow-md w-48 object-cover h-80" />
+            <img src="./src/assets/Images/image2.jpg" alt="Hotel Room" className="rounded-lg shadow-md absolute right-0 bottom-10 transform translate-x-1/8 w-2/3 h-60 object-cover" />
             <div className="absolute top-4 left-4 bg-white rounded-full p-2 shadow-md">
               <svg className="w-6 h-6 text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
