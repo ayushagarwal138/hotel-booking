@@ -4,17 +4,17 @@ const blogPosts = [
   {
     title: 'Top 10 Tourist Attractions',
     excerpt: 'Discover the must-visit spots in our city...',
-    image: './public/image4.jpg',
+    image: '/image4.jpg',
   },
   {
     title: 'A Foodies Guide to Local Cuisine',
     excerpt: 'Explore the flavors of our region...',
-    image: './public/image5.jpg',
+    image: '/image5.jpg',
   },
   {
     title: 'Sustainable Tourism: Our Commitment',
     excerpt: 'Learn about our eco-friendly initiatives...',
-    image: './public/image6.jpg',
+    image: '/image6.jpg',
   },
 ];
 
