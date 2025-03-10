@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import { ChevronDown } from 'lucide-react';
 import BookingPopup from './BookingPopup';
 import background from '../assets/Images/background.jpg'
-import Image2 from '../assets/Images/image2.jpg'
 
 export default function HeroSection({ onExploreRooms }) {
   const [checkIn, setCheckIn] = useState('');
